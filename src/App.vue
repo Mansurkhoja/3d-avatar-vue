@@ -1,5 +1,5 @@
 <template>
-  aaww
+  tt
   <AvatarRpm :url="`./avatar.glb`"/>
   <img alt="Vue logo" src="./assets/logo.png">
 </template>
